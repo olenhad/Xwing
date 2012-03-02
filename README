@@ -1,0 +1,9 @@
+Welcome to XWing, a simple Java based project I made to teach myself aspects of game programming. For now it uses a very simple brute force, rectangular collision algo and has very limited controls and no levels. Blame my uni courses for that. If I get the time, I hoe to add the following:
+-Levels of difficulty
+-AI for hostile Sprites. 
+-ALOT More game objects.
+-Make the movements framerate independent. 
+-A storyline :P
+
+To run, just go to dist folder and run java -jar XWing.jar
+
